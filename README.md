@@ -58,4 +58,44 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
+
+# Laravel-migration-krunker
+Fazendo migrations no dia internacional do laravel (quartas-feiras)
+
+Aqui só baixei o larvel
+
+<img width="670" height="267" alt="image" src="https://github.com/user-attachments/assets/65fc16d6-0a58-4620-9c1d-aa4a27d389b8" />
+
+Aí iniciei um novo projeto
+
+<img width="741" height="808" alt="image" src="https://github.com/user-attachments/assets/4a4988b4-b920-4ca1-971b-bb7eaab691ad" />A
+<img width="1052" height="302" alt="image" src="https://github.com/user-attachments/assets/dddb09dd-dc6d-4d5d-9215-2250c10fc15a" />
+<img width="771" height="816" alt="image" src="https://github.com/user-attachments/assets/31a9db9f-869e-4fdf-bfda-68b3ae6664e6" />
+
+Rodei o site só pra ver se deu certo
+
+<img width="647" height="66" alt="image" src="https://github.com/user-attachments/assets/0c61dcc9-78ad-4c7a-9d5d-04e3b127322e" />
+
+//Spoiler: deu certo =D
+
+Aqui eu criei a tabela da migration 
+
+<img width="1282" height="188" alt="image" src="https://github.com/user-attachments/assets/bcdf8a4b-dc56-429c-bad3-90ca3d1c2c35" />
+
+Aí eu botei uns campos na minha migration
+
+<img width="1030" height="507" alt="image" src="https://github.com/user-attachments/assets/705ed449-c3c9-4b1e-a27b-d7d17caa8197" />
+
+Dei um refresh pra recarregar as alterações e executar novamente
+
+<img width="1395" height="432" alt="image" src="https://github.com/user-attachments/assets/f682bdf2-d60f-4751-8346-0740e562b42d" />
+
+Slk meu resenha, aqui tá a tabela da migration
+
+<img width="1885" height="305" alt="image" src="https://github.com/user-attachments/assets/da84fb47-edc7-4546-a209-44ee20dbcdf7" />
+
+
+//Eu acabei ficando empolgado na hora de criar os campos, mb
+
+
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
